@@ -7,6 +7,7 @@
 - Investigating decision trees
 -  Exposing the inner workings of neural networks
 
+<<<<<<< HEAD
 ### Note
 - data -> pattern -> prediction -> decision
 - So, at its simplest level, a mathematical model is a prediction-making machine.
@@ -24,3 +25,5 @@
 
 ### Clustering
 - Clustering techniques are mathematical processes for unsupervised learning, organizing the cases in your data into similar groups.
+=======
+>>>>>>> 1e5832a91701642582ac757ef9924d6fc3a0a747
